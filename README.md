@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OTMounir
+- 👋 Hi, I’m Mounir Achir
 - 👀 I’m interested in data science and python
 - 🌱 I’m currently learning the google advanced data analytics certificate
 - 💞️ I’m looking to collaborate on everything
